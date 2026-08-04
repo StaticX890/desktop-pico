@@ -14,7 +14,7 @@ If you want download it through:
 2. Download 'Desktop_Pico.exe'
 3. Double click to run
 
-That's it! No PyInstaller required.
+That's it! No PyInstaller required. (The .exe is also in the .zip file cause why not)
 
 ## PyInstaller
 
