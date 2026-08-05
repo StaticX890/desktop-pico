@@ -25,9 +25,10 @@ If you would rather build Pico yourself:
 3. Double click the python file to make sure it runs (If you have python, alternatively, the program can be used like this)
 4. In the Desktop_Pico folder type cmd into the address bar
 5. Paste this: _python -m pip install pyinstaller_
-6. Wait until it's done, and then paste this: _python -m PyInstaller --onefile --windowed --icon=Melon.ico --add-data "Assets;Assets" --add-data "Fonts;Fonts" Pico_Python.py_
-7. Wait until that's done (May take a while) and then open _dist_ folder
-8. Your .exe file should be in there! (It is now safe to remove it from the _dist_ folder and rename it!)
+6. Paste this: _python -m pip install PySide6_
+7. Wait until it's done, and then paste this: _python -m PyInstaller --onefile --windowed --icon=Melon.ico --add-data "Assets;Assets" --add-data "Fonts;Fonts" Pico_Python.py_
+8. Wait until that's done (May take a while) and then open _dist_ folder
+9. Your .exe file should be in there! (It is now safe to remove it from the _dist_ folder and rename it!)
 
 ## Customisation Notes
 
