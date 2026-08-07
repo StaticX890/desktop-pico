@@ -1,4 +1,4 @@
-# desktop-pico
+# Desktop Pico
 
 **RIGHT CLICK TO CLOSE THE APPLICATION**
 
