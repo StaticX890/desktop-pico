@@ -2,6 +2,8 @@
 
 **RIGHT CLICK TO CLOSE THE APPLICATION**
 
+<img width="850" height="200" alt="PicoBanner" src="https://github.com/user-attachments/assets/6afbbe72-f474-4e1d-addf-7647200a1093" />
+
 Hey, Static here! :D
 
 Still learning how to use this github thingy, so DM me at **@xavinat0rmax** on Discord for any advice or issues! Follow the guide below, and you will become the owner of your very own pet Pico Dragon!!!
